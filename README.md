@@ -1,0 +1,2 @@
+Description:
+Stock screening application written in Python.  Takes in a list of stock ticker symbols (currently found in 'securitylist.py'.  The screener gets stock information using the yahoo_finance package, then compares to a series of criteria.  If the stock meets all criteria, it is added to a list of passing stocks which is printed after all stocks have been evaluated.
